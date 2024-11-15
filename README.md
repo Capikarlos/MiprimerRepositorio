@@ -1,4 +1,3 @@
-# MiprimerRepositorio
 # Mi Primera Pagina Web
 ![Computadora](https://signoscv.com/wp-content/uploads/2022/04/pagina-web-1-930x620.jpg "Computadora mostrando una pagina web")
 
